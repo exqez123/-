@@ -32,4 +32,6 @@ model: sonnet                    # необязательно: sonnet, opus, hai
 Системный промпт: роль агента, порядок работы, формат ответа.
 ```
 
+Инструменты из видео (claude-mem, Headroom, OmniRoute и плагины) — см. [TOOLS-SETUP.md](TOOLS-SETUP.md).
+
 Агенты в `.claude/agents/` действуют для этого проекта; личные агенты для всех проектов кладутся в `~/.claude/agents/`.
